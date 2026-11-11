@@ -1,7 +1,7 @@
 import os
 import requests
 
-TELEGRAM_TOKEN = "9271045647:AAG3PgiLCYJdFwGJ_0ZjvQvznmp85hPxTEQ"
+TELEGRAM_TOKEN = "9024140919:AAHcCeqa6ASuZNRGce7_wLxjWDaYgZOygQE"
 CHAT_ID = "7443132080"
 
 # Aptieku meklēšanas saites Möller's 250ml eļļai
